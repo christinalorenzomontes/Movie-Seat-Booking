@@ -6,5 +6,5 @@
 In Progress!! :stuck_out_tongue_closed_eyes:
 
 ## Following this course:
-https://www.udemy.com/course/web-projects-with-vanilla-javascript/ <3
+https://www.udemy.com/course/web-projects-with-vanilla-javascript/ :heart:
 
